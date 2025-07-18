@@ -1,0 +1,34 @@
+{
+  "experiences": [
+    {
+      "title": "Website Administrator",
+      "subtitle": "HOANG HA ITC.,JSC ",
+      "workType": "Part-time",
+      "workDescription": [
+        "Website deployment, maintenance and optimization ",
+        "Content management, website development.",
+        "Provide technical support to internal users."
+      ],
+      "dateText": "02/2024 – 08/2024"
+    },
+
+    {
+      "title": "Website Developer",
+      "subtitle": "Gia Tu Dental Ltd",
+      "workType": "Freelance",
+      "workDescription": [
+        "Build and develop website to support customers in making appointments and promoting the brand."
+      ],
+      "dateText": "09/2024 – 12/2024"
+    },
+    {
+      "title": "App Developer",
+      "subtitle": "LUTECH Ltd",
+      "workType": "Internship",
+      "workDescription": [
+        " Android application development programming (Kotlin)"
+      ],
+      "dateText": "01/2025 – 04/2025"
+    }
+  ]
+}

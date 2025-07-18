@@ -1,0 +1,106 @@
+{
+    
+    "projects" : [
+        {
+            "image" : "images/projects/metal.png",
+            "title": "Metal Dental Clinic Website",
+            "bodyText": "- Website designed to promote the brand and enhance its online presence.\n - Facilitates customers in scheduling dental appointments seamlessly through an intuitive interface.\n - Empowers doctors and staff to efficiently manage appointments and receive real-time email notifications for customer bookings.",
+            "links": [
+                
+                {
+                    "text": "Live",
+                    "href": "https://nhakhoametal.com"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "NodeJS",
+                "Tailwind",
+                "...."
+            ]
+        },
+        {
+            "image" : "images/projects/vaxbot.png",
+            "title": "Vaccination Website",
+            "bodyText": "- Built with inspiration from the VNVC website, integrating Google Gemini, Momo, and Facebook.\n - Supports customers in viewing vaccines, booking/managing appointments, and online payments.\n - Enables doctors/staff to manage appointments, vaccines, and payments.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cao-Thanh-Duc/vaccination-web"
+                }
+                
+            ],
+            "tags" : [
+                "ReacJS",
+                "TypeScript",
+                "Tailwind",
+                "...."
+                
+            ]
+        },
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Portfolio Website",
+            "bodyText": "- Developer Portfolio Website built using React, showcasing projects and skills with a modern, responsive design.\n - Fully customizable and dynamic, allowing seamless updates to data, images, and content for flexible personalization.\n- Includes Dark Mode support to enhance user experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cao-Thanh-Duc/Portfolio"
+                }
+            ],
+            "tags" : [
+                "ReacJS",
+                "CSS",
+                "...."
+            ]
+        },
+        {
+            "title": "Laptop Shop Website",
+            "bodyText": "- Website crafted to promote a laptop brand and strengthen its online visibility.\n - Enables customers to browse laptops, place orders, and complete payments through an intuitive interface.\n - Empowers staff to manage orders, track inventory, and receive real-time email notifications for customer purchases.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cao-Thanh-Duc/laptop_shop_website"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "JavaScript",
+                "CSS",
+                "..."
+            ]
+        },
+        {
+            "title": "Learning English Website",
+            "bodyText": "- Website designed to enhance English learning and boost its online educational presence.\n - Enables users to learn English, take online practice tests, and create custom quizzes or lessons through an intuitive interface.\n - Empowers instructors to manage courses, monitor user progress, and receive real-time email notifications for test submissions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cao-Thanh-Duc/Learning_English_Website"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "JavaScript",
+                "CSS",
+                "..."
+            ]
+        },
+        {
+            "title": "Admin Dashboard",
+            "bodyText": "- Dashboard website crafted to streamline data management and enhance its online utility.\n - Enables users to access, customize, and reuse dashboard structures through an intuitive interface.\n - Empowers administrators to monitor performance, update layouts, and receive real-time email notifications for system changes.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Cao-Thanh-Duc/admin-dashboard"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                
+                "..."
+            ]
+        }
+        
+    ]
+}

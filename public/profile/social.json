@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/cao-thanh-duc"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Cao-Thanh-Duc"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:caothanhduc.bdqb@gmail.com"
+        }
+    ]
+}
